@@ -1,1 +1,1 @@
-# fullstack-vue-study
+# Fullstack Vue Study
